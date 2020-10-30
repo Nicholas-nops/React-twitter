@@ -6,7 +6,7 @@ The objectives are:
 * Work with react hooks
 * Work with functional components
 * Work with json manipulation
-
+![mainpage](https://github.com/Nicholas-nops/React-twitter/blob/master/mp.PNG)
 
 
 
