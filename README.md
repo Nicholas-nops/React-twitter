@@ -1,3 +1,39 @@
+# React-twitter
+This a prototype project developed to simulate the twitter creating posts in a more sample interface.
+
+
+The objectives are:
+* Work with react hooks
+* Work with functional components
+* Work with json manipulation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
